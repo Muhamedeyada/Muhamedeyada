@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohamed
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator]([[https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/Muhamedeyada/Muhamedeyada/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png](https://github.com/Muhamedeyada/Muhamedeyada/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true)))
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/Muhamedeyada/Muhamedeyada/refs/heads/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 Self-driven and determined Software Engineer with a strong academic background in Information Technology from the Information Technology Institute (ITI). I am eager to join a dynamic team where I can deepen my knowledge of web technologies, refine my skills as a Software Engineer, and contribute to building impactful products that benefit the community and improve people’s lives.
 
